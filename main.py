@@ -2,6 +2,8 @@
 
 import random
 
+#tezt
+
 def drawBoard(board):
     # This function prints out the board that it was passed.
 
